@@ -8,6 +8,7 @@ Project involved designing a *strategic and HR analytics dashboard* for *Coca-Co
 
 [Project PDF](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Report.pdf)
 [Jupyter Notebook](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Dashboard.ipynb)
+[Dashboard Preview](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Dashboard%20Preview.mov)
 
 <h2>Languages and Utilities Used</h2>
 
