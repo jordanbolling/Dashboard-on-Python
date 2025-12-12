@@ -45,10 +45,13 @@ Project involved designing a *strategic and HR analytics dashboard* for *Coca-Co
 - Developed monitoring systems for DEI progression and regional/departmental employee efficiency.
 
 5. **Data Visualisation:**
-- Conducted an external (Porter's 5 forces) and internal analysis (VRIO analysis) based on quantitative comparisons made.
+- Conducted an internal (VRIO analysis) and external (Porter's 5 forces) analysis based on quantitative comparisons made.
 <p align="center">
-Launch the utility: <br/>
-<img src="[https://ibb.co/G4vFd54R]" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Internal Analysis: <br/>
+<img src="https://i.ibb.co/Q7j6xm3C/Screenshot-2025-12-12-at-17-53-47.png"/>
+<br/>
+External Analysis: <br/>
+<img src="https://i.ibb.co/gLM6rRLJ/Screenshot-2025-12-12-at-17-53-27.png"/>
 </p>
 
 - Constructed flashcards, line charts, bar graphs, and donut charts to track Coca-Cola’s performance across HR and strategic metrics.
