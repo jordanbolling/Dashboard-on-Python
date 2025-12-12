@@ -1,4 +1,4 @@
-<h1>An analysis of Coca-Cola Company's Strategy and HR Activities (2025)</h1>
+<h1>An Analysis of Coca-Cola Company's Strategy and HR Activities (2025)</h1>
 
 <h2>Description</h2>
 Project involved designing a *strategic and HR analytics dashboard* for *Coca-Cola Company*, aiming to address key organisational challenges and support evidence-based decision-making. An interactive dashboard was construsted that synthesises data from Coca-Cola, key competitors, and industry reports, enabling real-time monitoring and predictive analysis of strategic and HR metrics. It was developed as part of a coursework assignment and offers practical business intelligence tools aligned with the company's competitive landscape.
