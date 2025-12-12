@@ -4,6 +4,8 @@
 Project involved designing a *strategic and HR analytics dashboard* for *Coca-Cola Company*, aiming to address key organisational challenges and support evidence-based decision-making. An interactive dashboard was construsted that synthesises data from Coca-Cola, key competitors, and industry reports, enabling real-time monitoring and predictive analysis of strategic and HR metrics. It was developed as part of a coursework assignment and offers practical business intelligence tools aligned with the company's competitive landscape.
 <br />
 
+<h2>Dashboard Preview</h2>
+
 [Project PDF](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Report.pdf)
 [Jupyter Notebook](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Dashboard.ipynb)
 
@@ -48,14 +50,6 @@ Project involved designing a *strategic and HR analytics dashboard* for *Coca-Co
 
 5. **Data Visualisation:**
 - Conducted an internal (VRIO analysis) and external (Porter's 5 forces) analysis based on quantitative comparisons made.
-<p align="center">
-Internal Analysis: <br/>
-<img src="https://i.ibb.co/Q7j6xm3C/Screenshot-2025-12-12-at-17-53-47.png"/>
-<br/>
-External Analysis: <br/>
-<img src="https://i.ibb.co/gLM6rRLJ/Screenshot-2025-12-12-at-17-53-27.png"/>
-</p>
-
 - Constructed flashcards, line charts, bar graphs, and donut charts to track Coca-Cola’s performance across HR and strategic metrics.
 - Developed comparative visualisations using industry benchmarks derived from annual reports and financial data.
 
