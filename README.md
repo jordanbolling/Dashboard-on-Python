@@ -4,6 +4,7 @@
 Project involved designing a *strategic and HR analytics dashboard* for *Coca-Cola Company*, aiming to address key organisational challenges and support evidence-based decision-making. An interactive dashboard was construsted that synthesises data from Coca-Cola, key competitors, and industry reports, enabling real-time monitoring and predictive analysis of strategic and HR metrics. It was developed as part of a coursework assignment and offers practical business intelligence tools aligned with the company's competitive landscape.
 <br />
 
+[Download PDF](https://github.com/jordanbolling/Dashboard-on-Python/blob/main/Coca-Cola%20Report.pdf)
 
 <h2>Languages and Utilities Used</h2>
 
